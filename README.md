@@ -1,3 +1,6 @@
+<img width="1727" height="921" alt="Screenshot 2026-07-08 070925" src="https://github.com/user-attachments/assets/7bb65ffa-8b15-46b1-a2be-20c8dd678265" />
+
+
 # FoxFW Wallpaper Converter
 
 A single-file, double-click PowerShell tool (packaged as a `.bat`) for converting Flipper Zero **FoxFW** custom firmware wallpapers between `.xbm` (the format the firmware uses) and `.bmp` (an easy format to edit in MS Paint or any image editor).
